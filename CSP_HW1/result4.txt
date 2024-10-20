@@ -1,0 +1,1788 @@
+Generated KenKen table (size 1,number 1):
+-----------------------
+[1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: +, Target: 1
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1
+Generated KenKen table (size 1,number 1):
+-----------------------
+[1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: *, Target: 1
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1
+Generated KenKen table (size 1,number 1):
+-----------------------
+[1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: /, Target: 1
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1
+Generated KenKen table (size 1,number 1):
+-----------------------
+[1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: /, Target: 1
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1
+Generated KenKen table (size 1,number 1):
+-----------------------
+[1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: -, Target: 1
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1
+Generated KenKen table (size 1,number 1):
+-----------------------
+[1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: /, Target: 1
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1
+Generated KenKen table (size 1,number 1):
+-----------------------
+[1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: /, Target: 1
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1
+Generated KenKen table (size 1,number 1):
+-----------------------
+[1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: +, Target: 1
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1
+Generated KenKen table (size 1,number 1):
+-----------------------
+[1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: *, Target: 1
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1
+Generated KenKen table (size 1,number 1):
+-----------------------
+[1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: *, Target: 1
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1
+Generated KenKen table (size 2,number 2):
+-----------------------
+[1, 2]
+[2, 1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0)], Operation: -, Target: 1
+Cage Cells: [(0, 1), (1, 1)], Operation: /, Target: 2.00
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+2 1
+1 2
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1 2.0
+2 1.0
+Generated KenKen table (size 2,number 2):
+-----------------------
+[2, 1]
+[1, 2]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0)], Operation: +, Target: 3
+Cage Cells: [(0, 1), (1, 1)], Operation: -, Target: 1
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+2 1
+1 2
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1 2
+2 1
+Generated KenKen table (size 2,number 2):
+-----------------------
+[2, 1]
+[1, 2]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: /, Target: 2
+Cage Cells: [(0, 1)], Operation: +, Target: 1
+Cage Cells: [(1, 0)], Operation: -, Target: 1
+Cage Cells: [(1, 1)], Operation: -, Target: 2
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+2 1
+1 2
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+2 1
+1 2
+Generated KenKen table (size 2,number 2):
+-----------------------
+[1, 2]
+[2, 1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: +, Target: 1
+Cage Cells: [(0, 1), (1, 1)], Operation: *, Target: 2
+Cage Cells: [(1, 0)], Operation: +, Target: 2
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1 2
+2 1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1 2
+2 1
+Generated KenKen table (size 2,number 2):
+-----------------------
+[2, 1]
+[1, 2]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (0, 1)], Operation: *, Target: 2
+Cage Cells: [(1, 0), (1, 1)], Operation: +, Target: 3
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+2 1
+1 2
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1 2
+2 1
+Generated KenKen table (size 2,number 2):
+-----------------------
+[1, 2]
+[2, 1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0)], Operation: +, Target: 3
+Cage Cells: [(0, 1)], Operation: *, Target: 2
+Cage Cells: [(1, 1)], Operation: *, Target: 1
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1 2
+2 1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1 2
+2 1
+Generated KenKen table (size 2,number 2):
+-----------------------
+[1, 2]
+[2, 1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (0, 1)], Operation: *, Target: 2
+Cage Cells: [(1, 0)], Operation: +, Target: 2
+Cage Cells: [(1, 1)], Operation: /, Target: 1
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1 2
+2 1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1 2
+2 1
+Generated KenKen table (size 2,number 2):
+-----------------------
+[1, 2]
+[2, 1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: /, Target: 1
+Cage Cells: [(0, 1), (1, 1)], Operation: -, Target: 1
+Cage Cells: [(1, 0)], Operation: +, Target: 2
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1 2
+2 1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1 2
+2 1
+Generated KenKen table (size 2,number 2):
+-----------------------
+[2, 1]
+[1, 2]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (0, 1)], Operation: /, Target: 2.00
+Cage Cells: [(1, 0), (1, 1)], Operation: /, Target: 2.00
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1 2
+2 1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1.0 2.0
+2.0 1.0
+Generated KenKen table (size 2,number 2):
+-----------------------
+[1, 2]
+[2, 1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0)], Operation: *, Target: 2
+Cage Cells: [(0, 1), (1, 1)], Operation: +, Target: 3
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1 2
+2 1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1 2
+2 1
+Generated KenKen table (size 3,number 3):
+-----------------------
+[2, 3, 1]
+[1, 2, 3]
+[3, 1, 2]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: *, Target: 2
+Cage Cells: [(0, 1), (0, 2)], Operation: +, Target: 4
+Cage Cells: [(1, 0)], Operation: -, Target: 1
+Cage Cells: [(1, 1), (2, 1)], Operation: *, Target: 2
+Cage Cells: [(1, 2), (2, 2)], Operation: +, Target: 5
+Cage Cells: [(2, 0)], Operation: +, Target: 3
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+2 3 1
+1 2 3
+3 1 2
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+2 3 1
+1 2 3
+3 1 2
+Generated KenKen table (size 3,number 3):
+-----------------------
+[2, 1, 3]
+[3, 2, 1]
+[1, 3, 2]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: -, Target: 2
+Cage Cells: [(0, 1), (1, 1), (2, 1)], Operation: +, Target: 6
+Cage Cells: [(0, 2), (1, 2)], Operation: +, Target: 4
+Cage Cells: [(1, 0)], Operation: /, Target: 3
+Cage Cells: [(2, 0)], Operation: *, Target: 1
+Cage Cells: [(2, 2)], Operation: *, Target: 2
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+2 1 3
+3 2 1
+1 3 2
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+2 1 3
+3 2 1
+1 3 2
+Generated KenKen table (size 3,number 3):
+-----------------------
+[2, 1, 3]
+[1, 3, 2]
+[3, 2, 1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (0, 1)], Operation: *, Target: 2
+Cage Cells: [(0, 2), (1, 2)], Operation: +, Target: 5
+Cage Cells: [(1, 0)], Operation: *, Target: 1
+Cage Cells: [(1, 1)], Operation: /, Target: 3
+Cage Cells: [(2, 0), (2, 1), (2, 2)], Operation: +, Target: 6
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+2 1 3
+1 3 2
+3 2 1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+2 1 3
+1 3 2
+3 2 1
+Generated KenKen table (size 3,number 3):
+-----------------------
+[1, 2, 3]
+[3, 1, 2]
+[2, 3, 1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: +, Target: 1
+Cage Cells: [(0, 1), (0, 2), (1, 2)], Operation: +, Target: 7
+Cage Cells: [(1, 0)], Operation: *, Target: 3
+Cage Cells: [(1, 1), (2, 1)], Operation: -, Target: 2
+Cage Cells: [(2, 0)], Operation: +, Target: 2
+Cage Cells: [(2, 2)], Operation: -, Target: 1
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1 2 3
+3 1 2
+2 3 1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1 2 3
+3 1 2
+2 3 1
+Generated KenKen table (size 3,number 3):
+-----------------------
+[3, 2, 1]
+[2, 1, 3]
+[1, 3, 2]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0), (2, 0)], Operation: +, Target: 6
+Cage Cells: [(0, 1), (1, 1)], Operation: +, Target: 3
+Cage Cells: [(0, 2), (1, 2)], Operation: -, Target: 2
+Cage Cells: [(2, 1), (2, 2)], Operation: -, Target: 1
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+2 1 3
+3 2 1
+1 3 2
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+2 1 3
+3 2 1
+1 3 2
+Generated KenKen table (size 3,number 3):
+-----------------------
+[3, 1, 2]
+[1, 2, 3]
+[2, 3, 1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0)], Operation: +, Target: 4
+Cage Cells: [(0, 1), (0, 2)], Operation: /, Target: 2.00
+Cage Cells: [(1, 1)], Operation: /, Target: 2
+Cage Cells: [(1, 2), (2, 2)], Operation: /, Target: 3.00
+Cage Cells: [(2, 0), (2, 1)], Operation: *, Target: 6
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+3 1 2
+1 2 3
+2 3 1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+3 1.0 2.0
+1 2 3.0
+2 3 1.0
+Generated KenKen table (size 3,number 3):
+-----------------------
+[1, 2, 3]
+[2, 3, 1]
+[3, 1, 2]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0)], Operation: +, Target: 3
+Cage Cells: [(0, 1), (1, 1)], Operation: -, Target: 1
+Cage Cells: [(0, 2), (1, 2), (2, 2)], Operation: *, Target: 6
+Cage Cells: [(2, 0), (2, 1)], Operation: -, Target: 2
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1 2 3
+2 3 1
+3 1 2
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1 2 3
+2 3 1
+3 1 2
+Generated KenKen table (size 3,number 3):
+-----------------------
+[3, 2, 1]
+[1, 3, 2]
+[2, 1, 3]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (0, 1), (0, 2)], Operation: *, Target: 6
+Cage Cells: [(1, 0), (1, 1)], Operation: +, Target: 4
+Cage Cells: [(1, 2)], Operation: *, Target: 2
+Cage Cells: [(2, 0)], Operation: -, Target: 2
+Cage Cells: [(2, 1)], Operation: *, Target: 1
+Cage Cells: [(2, 2)], Operation: +, Target: 3
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+3 2 1
+1 3 2
+2 1 3
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+3 2 1
+1 3 2
+2 1 3
+Generated KenKen table (size 3,number 3):
+-----------------------
+[1, 3, 2]
+[3, 2, 1]
+[2, 1, 3]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: -, Target: 1
+Cage Cells: [(0, 1), (1, 1)], Operation: +, Target: 5
+Cage Cells: [(0, 2), (1, 2)], Operation: *, Target: 2
+Cage Cells: [(1, 0)], Operation: +, Target: 3
+Cage Cells: [(2, 0), (2, 1), (2, 2)], Operation: +, Target: 6
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1 3 2
+3 2 1
+2 1 3
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1 3 2
+3 2 1
+2 1 3
+Generated KenKen table (size 3,number 3):
+-----------------------
+[1, 3, 2]
+[3, 2, 1]
+[2, 1, 3]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: +, Target: 1
+Cage Cells: [(0, 1)], Operation: -, Target: 3
+Cage Cells: [(0, 2), (1, 2)], Operation: *, Target: 2
+Cage Cells: [(1, 0), (2, 0), (2, 1)], Operation: +, Target: 6
+Cage Cells: [(1, 1)], Operation: +, Target: 2
+Cage Cells: [(2, 2)], Operation: +, Target: 3
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1 3 2
+3 2 1
+2 1 3
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1 3 2
+3 2 1
+2 1 3
+Generated KenKen table (size 4,number 4):
+-----------------------
+[2, 1, 4, 3]
+[4, 3, 1, 2]
+[3, 4, 2, 1]
+[1, 2, 3, 4]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: /, Target: 2
+Cage Cells: [(0, 1)], Operation: +, Target: 1
+Cage Cells: [(0, 2), (0, 3), (1, 3), (1, 2)], Operation: *, Target: 24
+Cage Cells: [(1, 0), (2, 0)], Operation: *, Target: 12
+Cage Cells: [(1, 1), (2, 1)], Operation: *, Target: 12
+Cage Cells: [(2, 2), (2, 3)], Operation: /, Target: 2.00
+Cage Cells: [(3, 0), (3, 1), (3, 2)], Operation: *, Target: 6
+Cage Cells: [(3, 3)], Operation: *, Target: 4
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+2 1 4 3
+3 4 1 2
+4 3 2 1
+1 2 3 4
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+2 1 4 3
+3 4 1 2
+4 3 2.0 1.0
+1 2 3 4
+Generated KenKen table (size 4,number 4):
+-----------------------
+[1, 3, 2, 4]
+[2, 1, 4, 3]
+[3, 4, 1, 2]
+[4, 2, 3, 1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (0, 1), (0, 2)], Operation: *, Target: 6
+Cage Cells: [(0, 3), (1, 3), (2, 3)], Operation: *, Target: 24
+Cage Cells: [(1, 0), (1, 1), (1, 2), (2, 2)], Operation: +, Target: 8
+Cage Cells: [(2, 0), (3, 0), (3, 1)], Operation: *, Target: 24
+Cage Cells: [(2, 1)], Operation: *, Target: 4
+Cage Cells: [(3, 2), (3, 3)], Operation: *, Target: 3
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1 3 2 4
+2 1 4 3
+3 4 1 2
+4 2 3 1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1 3 2 4
+2 1 4 3
+3 4 1 2
+4 2 3 1
+Generated KenKen table (size 4,number 4):
+-----------------------
+[2, 1, 3, 4]
+[3, 2, 4, 1]
+[1, 4, 2, 3]
+[4, 3, 1, 2]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0), (1, 1), (1, 2)], Operation: *, Target: 48
+Cage Cells: [(0, 1), (0, 2), (0, 3)], Operation: +, Target: 8
+Cage Cells: [(1, 3), (2, 3), (3, 3)], Operation: +, Target: 6
+Cage Cells: [(2, 0), (3, 0), (3, 1), (3, 2)], Operation: *, Target: 12
+Cage Cells: [(2, 1)], Operation: +, Target: 4
+Cage Cells: [(2, 2)], Operation: +, Target: 2
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+2 3 1 4
+4 2 3 1
+1 4 2 3
+3 1 4 2
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+2 1 3 4
+3 2 4 1
+1 4 2 3
+4 3 1 2
+Generated KenKen table (size 4,number 4):
+-----------------------
+[2, 3, 1, 4]
+[4, 2, 3, 1]
+[1, 4, 2, 3]
+[3, 1, 4, 2]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0), (1, 1), (2, 1)], Operation: +, Target: 12
+Cage Cells: [(0, 1), (0, 2)], Operation: *, Target: 3
+Cage Cells: [(0, 3), (1, 3), (2, 3)], Operation: +, Target: 8
+Cage Cells: [(1, 2), (2, 2)], Operation: *, Target: 6
+Cage Cells: [(2, 0), (3, 0)], Operation: -, Target: 2
+Cage Cells: [(3, 1), (3, 2), (3, 3)], Operation: +, Target: 7
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+2 3 1 4
+4 2 3 1
+1 4 2 3
+3 1 4 2
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+2 3 1 4
+4 2 3 1
+1 4 2 3
+3 1 4 2
+Generated KenKen table (size 4,number 4):
+-----------------------
+[4, 3, 2, 1]
+[1, 2, 3, 4]
+[3, 1, 4, 2]
+[2, 4, 1, 3]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: +, Target: 4
+Cage Cells: [(0, 1), (1, 1)], Operation: -, Target: 1
+Cage Cells: [(0, 2), (0, 3), (1, 3)], Operation: *, Target: 8
+Cage Cells: [(1, 0), (2, 0), (2, 1), (3, 1)], Operation: +, Target: 9
+Cage Cells: [(1, 2)], Operation: *, Target: 3
+Cage Cells: [(2, 2)], Operation: +, Target: 4
+Cage Cells: [(2, 3), (3, 3), (3, 2)], Operation: *, Target: 6
+Cage Cells: [(3, 0)], Operation: *, Target: 2
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+4 3 2 1
+1 2 3 4
+3 1 4 2
+2 4 1 3
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+4 3 2 1
+1 2 3 4
+3 1 4 2
+2 4 1 3
+Generated KenKen table (size 4,number 4):
+-----------------------
+[3, 1, 2, 4]
+[4, 2, 1, 3]
+[1, 3, 4, 2]
+[2, 4, 3, 1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (0, 1)], Operation: -, Target: 2
+Cage Cells: [(0, 2)], Operation: *, Target: 2
+Cage Cells: [(0, 3), (1, 3)], Operation: -, Target: 1
+Cage Cells: [(1, 0)], Operation: +, Target: 4
+Cage Cells: [(1, 1), (1, 2)], Operation: *, Target: 2
+Cage Cells: [(2, 0), (3, 0), (3, 1), (2, 1)], Operation: *, Target: 24
+Cage Cells: [(2, 2)], Operation: /, Target: 4
+Cage Cells: [(2, 3), (3, 3)], Operation: /, Target: 2.00
+Cage Cells: [(3, 2)], Operation: +, Target: 3
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1 3 2 4
+4 2 1 3
+3 1 4 2
+2 4 3 1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1 3 2 4
+4 2 1 3
+3 1 4 2.0
+2 4 3 1.0
+Generated KenKen table (size 4,number 4):
+-----------------------
+[3, 4, 2, 1]
+[2, 1, 4, 3]
+[4, 3, 1, 2]
+[1, 2, 3, 4]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: *, Target: 3
+Cage Cells: [(0, 1), (1, 1)], Operation: +, Target: 5
+Cage Cells: [(0, 2), (0, 3)], Operation: -, Target: 1
+Cage Cells: [(1, 0), (2, 0), (2, 1), (2, 2)], Operation: *, Target: 24
+Cage Cells: [(1, 2), (1, 3)], Operation: *, Target: 12
+Cage Cells: [(2, 3)], Operation: +, Target: 2
+Cage Cells: [(3, 0)], Operation: +, Target: 1
+Cage Cells: [(3, 1), (3, 2), (3, 3)], Operation: *, Target: 24
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+3 4 2 1
+2 1 4 3
+4 3 1 2
+1 2 3 4
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+3 4 2 1
+2 1 4 3
+4 3 1 2
+1 2 3 4
+Generated KenKen table (size 4,number 4):
+-----------------------
+[4, 1, 3, 2]
+[2, 3, 1, 4]
+[3, 4, 2, 1]
+[1, 2, 4, 3]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (0, 1), (0, 2), (1, 2)], Operation: *, Target: 12
+Cage Cells: [(0, 3), (1, 3), (2, 3), (3, 3)], Operation: *, Target: 24
+Cage Cells: [(1, 0)], Operation: +, Target: 2
+Cage Cells: [(1, 1), (2, 1), (2, 2)], Operation: *, Target: 24
+Cage Cells: [(2, 0), (3, 0), (3, 1)], Operation: *, Target: 6
+Cage Cells: [(3, 2)], Operation: +, Target: 4
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+4 1 3 2
+2 4 1 3
+1 3 2 4
+3 2 4 1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+4 1 3 2
+2 3 1 4
+3 4 2 1
+1 2 4 3
+Generated KenKen table (size 4,number 4):
+-----------------------
+[3, 1, 2, 4]
+[2, 3, 4, 1]
+[1, 4, 3, 2]
+[4, 2, 1, 3]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: /, Target: 3
+Cage Cells: [(0, 1), (1, 1), (2, 1), (2, 2)], Operation: +, Target: 11
+Cage Cells: [(0, 2), (0, 3)], Operation: -, Target: 2
+Cage Cells: [(1, 0)], Operation: /, Target: 2
+Cage Cells: [(1, 2), (1, 3), (2, 3)], Operation: *, Target: 8
+Cage Cells: [(2, 0), (3, 0), (3, 1)], Operation: +, Target: 7
+Cage Cells: [(3, 2)], Operation: -, Target: 1
+Cage Cells: [(3, 3)], Operation: /, Target: 3
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+3 1 2 4
+2 3 4 1
+1 4 3 2
+4 2 1 3
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+3 1 2 4
+2 3 4 1
+1 4 3 2
+4 2 1 3
+Generated KenKen table (size 4,number 4):
+-----------------------
+[2, 1, 4, 3]
+[4, 2, 3, 1]
+[1, 3, 2, 4]
+[3, 4, 1, 2]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: +, Target: 2
+Cage Cells: [(0, 1), (0, 2), (1, 2)], Operation: +, Target: 8
+Cage Cells: [(0, 3), (1, 3), (2, 3), (2, 2)], Operation: +, Target: 10
+Cage Cells: [(1, 0)], Operation: +, Target: 4
+Cage Cells: [(1, 1)], Operation: /, Target: 2
+Cage Cells: [(2, 0), (3, 0), (3, 1)], Operation: +, Target: 8
+Cage Cells: [(2, 1)], Operation: +, Target: 3
+Cage Cells: [(3, 2), (3, 3)], Operation: +, Target: 3
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+2 1 4 3
+4 2 3 1
+1 3 2 4
+3 4 1 2
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+2 1 4 3
+4 2 3 1
+1 3 2 4
+3 4 1 2
+Generated KenKen table (size 5,number 5):
+-----------------------
+[5, 2, 3, 4, 1]
+[4, 1, 5, 2, 3]
+[2, 3, 1, 5, 4]
+[3, 4, 2, 1, 5]
+[1, 5, 4, 3, 2]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (0, 1), (1, 1), (1, 0)], Operation: *, Target: 40
+Cage Cells: [(0, 2), (1, 2), (2, 2), (3, 2)], Operation: +, Target: 11
+Cage Cells: [(0, 3), (1, 3), (2, 3)], Operation: +, Target: 11
+Cage Cells: [(0, 4), (1, 4), (2, 4), (3, 4), (3, 3)], Operation: *, Target: 60
+Cage Cells: [(2, 0), (2, 1), (3, 1), (3, 0)], Operation: +, Target: 12
+Cage Cells: [(4, 0)], Operation: *, Target: 1
+Cage Cells: [(4, 1), (4, 2)], Operation: *, Target: 20
+Cage Cells: [(4, 3), (4, 4)], Operation: /, Target: 1.50
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+4 2 3 5 1
+5 1 2 4 3
+3 4 1 2 5
+2 3 5 1 4
+1 5 4 3 2
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+5 4 1 2 3
+2 1 3 4 5
+4 3 2 5 1
+3 2 5 1 4
+1 5 4 3.0 2.0
+Generated KenKen table (size 5,number 5):
+-----------------------
+[3, 1, 4, 5, 2]
+[1, 5, 2, 4, 3]
+[4, 3, 5, 2, 1]
+[2, 4, 1, 3, 5]
+[5, 2, 3, 1, 4]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0)], Operation: -, Target: 2
+Cage Cells: [(0, 1), (1, 1), (1, 2), (0, 2), (0, 3)], Operation: +, Target: 17
+Cage Cells: [(0, 4), (1, 4), (2, 4), (2, 3), (2, 2)], Operation: *, Target: 60
+Cage Cells: [(1, 3)], Operation: +, Target: 4
+Cage Cells: [(2, 0), (3, 0)], Operation: +, Target: 6
+Cage Cells: [(2, 1), (3, 1), (4, 1), (4, 2), (3, 2)], Operation: *, Target: 72
+Cage Cells: [(3, 3), (3, 4), (4, 4)], Operation: +, Target: 12
+Cage Cells: [(4, 0)], Operation: *, Target: 5
+Cage Cells: [(4, 3)], Operation: *, Target: 1
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+4 5 1 3 2
+2 3 5 4 1
+1 4 3 2 5
+3 1 2 5 4
+5 2 4 1 3
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1 5 4 2 3
+3 1 5 4 2
+4 3 2 5 1
+2 4 1 3 5
+5 2 3 1 4
+Generated KenKen table (size 5,number 5):
+-----------------------
+[3, 2, 4, 1, 5]
+[4, 5, 1, 3, 2]
+[5, 3, 2, 4, 1]
+[1, 4, 5, 2, 3]
+[2, 1, 3, 5, 4]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0), (1, 1)], Operation: *, Target: 60
+Cage Cells: [(0, 1), (0, 2)], Operation: *, Target: 8
+Cage Cells: [(0, 3), (0, 4), (1, 4), (2, 4)], Operation: *, Target: 10
+Cage Cells: [(1, 2), (2, 2), (2, 3)], Operation: *, Target: 8
+Cage Cells: [(1, 3)], Operation: *, Target: 3
+Cage Cells: [(2, 0), (3, 0), (3, 1)], Operation: *, Target: 20
+Cage Cells: [(2, 1)], Operation: *, Target: 3
+Cage Cells: [(3, 2), (3, 3), (3, 4)], Operation: *, Target: 30
+Cage Cells: [(4, 0), (4, 1)], Operation: *, Target: 2
+Cage Cells: [(4, 2), (4, 3), (4, 4)], Operation: *, Target: 60
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+3 2 4 1 5
+4 5 2 3 1
+5 3 1 4 2
+1 4 5 2 3
+2 1 3 5 4
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+3 2 4 1 5
+4 5 2 3 1
+5 3 1 4 2
+1 4 5 2 3
+2 1 3 5 4
+Generated KenKen table (size 5,number 5):
+-----------------------
+[2, 5, 4, 1, 3]
+[1, 4, 5, 3, 2]
+[3, 2, 1, 5, 4]
+[5, 3, 2, 4, 1]
+[4, 1, 3, 2, 5]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0), (2, 0), (2, 1), (3, 1)], Operation: *, Target: 36
+Cage Cells: [(0, 1), (1, 1), (1, 2), (2, 2), (2, 3)], Operation: +, Target: 20
+Cage Cells: [(0, 2)], Operation: *, Target: 4
+Cage Cells: [(0, 3), (0, 4), (1, 4), (2, 4), (3, 4)], Operation: +, Target: 11
+Cage Cells: [(1, 3)], Operation: +, Target: 3
+Cage Cells: [(3, 0), (4, 0)], Operation: /, Target: 1.25
+Cage Cells: [(3, 2), (4, 2), (4, 3), (4, 4)], Operation: *, Target: 60
+Cage Cells: [(3, 3)], Operation: +, Target: 4
+Cage Cells: [(4, 1)], Operation: /, Target: 1
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+2 5 4 1 3
+1 4 5 3 2
+3 2 1 5 4
+5 3 2 4 1
+4 1 3 2 5
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+2 5 4 1 3
+1 4 5 3 2
+3 2 1 5 4
+5.0 3 2 4 1
+4.0 1 3 2 5
+Generated KenKen table (size 5,number 5):
+-----------------------
+[1, 5, 3, 4, 2]
+[4, 1, 2, 3, 5]
+[3, 2, 5, 1, 4]
+[2, 3, 4, 5, 1]
+[5, 4, 1, 2, 3]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (0, 1), (1, 1), (1, 0), (2, 0)], Operation: *, Target: 60
+Cage Cells: [(0, 2), (1, 2), (1, 3), (0, 3)], Operation: +, Target: 12
+Cage Cells: [(0, 4), (1, 4), (2, 4), (2, 3)], Operation: +, Target: 12
+Cage Cells: [(2, 1), (2, 2)], Operation: -, Target: 3
+Cage Cells: [(3, 0), (3, 1)], Operation: *, Target: 6
+Cage Cells: [(3, 2), (3, 3), (4, 3), (4, 4)], Operation: +, Target: 14
+Cage Cells: [(3, 4)], Operation: +, Target: 1
+Cage Cells: [(4, 0), (4, 1), (4, 2)], Operation: *, Target: 20
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+4 1 2 3 5
+1 5 3 4 2
+3 2 5 1 4
+2 3 4 5 1
+5 4 1 2 3
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+4 1 2 3 5
+1 5 3 4 2
+3 2 5 1 4
+2 3 4 5 1
+5 4 1 2 3
+Generated KenKen table (size 5,number 5):
+-----------------------
+[1, 4, 3, 5, 2]
+[4, 1, 5, 2, 3]
+[5, 2, 4, 3, 1]
+[3, 5, 2, 1, 4]
+[2, 3, 1, 4, 5]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0), (2, 0), (3, 0)], Operation: *, Target: 60
+Cage Cells: [(0, 1)], Operation: *, Target: 4
+Cage Cells: [(0, 2), (1, 2)], Operation: -, Target: 2
+Cage Cells: [(0, 3)], Operation: +, Target: 5
+Cage Cells: [(0, 4), (1, 4)], Operation: *, Target: 6
+Cage Cells: [(1, 1), (2, 1), (3, 1), (4, 1), (4, 2)], Operation: +, Target: 12
+Cage Cells: [(1, 3), (2, 3)], Operation: *, Target: 6
+Cage Cells: [(2, 2), (3, 2), (3, 3), (4, 3)], Operation: *, Target: 32
+Cage Cells: [(2, 4), (3, 4), (4, 4)], Operation: *, Target: 20
+Cage Cells: [(4, 0)], Operation: *, Target: 2
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1 4 3 5 2
+4 1 5 2 3
+5 2 4 3 1
+3 5 2 1 4
+2 3 1 4 5
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1 4 3 5 2
+4 1 5 2 3
+5 2 4 3 1
+3 5 2 1 4
+2 3 1 4 5
+Generated KenKen table (size 5,number 5):
+-----------------------
+[4, 1, 5, 3, 2]
+[2, 5, 4, 1, 3]
+[1, 2, 3, 4, 5]
+[3, 4, 2, 5, 1]
+[5, 3, 1, 2, 4]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (0, 1), (0, 2), (0, 3), (0, 4)], Operation: +, Target: 15
+Cage Cells: [(1, 0), (1, 1), (1, 2)], Operation: +, Target: 11
+Cage Cells: [(1, 3), (1, 4)], Operation: *, Target: 3
+Cage Cells: [(2, 0), (2, 1), (3, 1), (3, 2), (4, 2)], Operation: *, Target: 16
+Cage Cells: [(2, 2), (2, 3), (3, 3)], Operation: *, Target: 60
+Cage Cells: [(2, 4), (3, 4), (4, 4)], Operation: +, Target: 10
+Cage Cells: [(3, 0), (4, 0)], Operation: *, Target: 15
+Cage Cells: [(4, 1)], Operation: *, Target: 3
+Cage Cells: [(4, 3)], Operation: *, Target: 2
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+4 5 1 3 2
+2 4 5 1 3
+1 2 3 4 5
+3 1 2 5 4
+5 3 4 2 1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1 4 3 5 2
+2 5 4 1 3
+4 2 5 3 1
+3 1 2 4 5
+5 3 1 2 4
+Generated KenKen table (size 5,number 5):
+-----------------------
+[2, 3, 1, 4, 5]
+[5, 2, 3, 1, 4]
+[4, 1, 2, 5, 3]
+[1, 5, 4, 3, 2]
+[3, 4, 5, 2, 1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: *, Target: 2
+Cage Cells: [(0, 1)], Operation: *, Target: 3
+Cage Cells: [(0, 2), (0, 3), (0, 4)], Operation: *, Target: 20
+Cage Cells: [(1, 0), (1, 1), (2, 1), (3, 1)], Operation: +, Target: 13
+Cage Cells: [(1, 2), (2, 2), (3, 2), (3, 3), (2, 3)], Operation: *, Target: 360
+Cage Cells: [(1, 3)], Operation: -, Target: 1
+Cage Cells: [(1, 4), (2, 4), (3, 4), (4, 4), (4, 3)], Operation: +, Target: 12
+Cage Cells: [(2, 0), (3, 0), (4, 0), (4, 1)], Operation: +, Target: 12
+Cage Cells: [(4, 2)], Operation: /, Target: 5
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+2 3 1 4 5
+5 2 4 1 3
+1 5 2 3 4
+4 1 3 5 2
+3 4 5 2 1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+2 3 1 4 5
+5 2 3 1 4
+1 5 4 3 2
+4 1 2 5 3
+3 4 5 2 1
+Generated KenKen table (size 5,number 5):
+-----------------------
+[3, 1, 2, 4, 5]
+[5, 3, 1, 2, 4]
+[1, 4, 3, 5, 2]
+[2, 5, 4, 1, 3]
+[4, 2, 5, 3, 1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0), (2, 0), (3, 0), (3, 1)], Operation: *, Target: 150
+Cage Cells: [(0, 1), (0, 2), (0, 3), (0, 4)], Operation: *, Target: 40
+Cage Cells: [(1, 1), (2, 1), (2, 2), (2, 3), (3, 3)], Operation: *, Target: 180
+Cage Cells: [(1, 2), (1, 3), (1, 4), (2, 4), (3, 4)], Operation: *, Target: 48
+Cage Cells: [(3, 2)], Operation: /, Target: 4
+Cage Cells: [(4, 0), (4, 1)], Operation: +, Target: 6
+Cage Cells: [(4, 2), (4, 3)], Operation: *, Target: 15
+Cage Cells: [(4, 4)], Operation: +, Target: 1
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+3 4 2 1 5
+5 3 1 2 4
+2 1 5 4 3
+1 5 4 3 2
+4 2 3 5 1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+3 1 2 4 5
+5 3 1 2 4
+1 4 3 5 2
+2 5 4 1 3
+4 2 5 3 1
+Generated KenKen table (size 5,number 5):
+-----------------------
+[3, 2, 4, 5, 1]
+[4, 1, 5, 3, 2]
+[1, 4, 3, 2, 5]
+[5, 3, 2, 1, 4]
+[2, 5, 1, 4, 3]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0), (1, 1), (2, 1)], Operation: *, Target: 48
+Cage Cells: [(0, 1), (0, 2), (0, 3), (1, 3)], Operation: *, Target: 120
+Cage Cells: [(0, 4)], Operation: /, Target: 1
+Cage Cells: [(1, 2), (2, 2), (2, 3), (3, 3)], Operation: *, Target: 30
+Cage Cells: [(1, 4), (2, 4), (3, 4), (4, 4), (4, 3)], Operation: *, Target: 480
+Cage Cells: [(2, 0), (3, 0)], Operation: +, Target: 6
+Cage Cells: [(3, 1), (4, 1)], Operation: *, Target: 15
+Cage Cells: [(3, 2), (4, 2)], Operation: *, Target: 2
+Cage Cells: [(4, 0)], Operation: +, Target: 2
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+3 2 4 5 1
+4 1 5 3 2
+1 4 3 2 5
+5 3 2 1 4
+2 5 1 4 3
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+3 2 4 5 1
+4 1 5 3 2
+1 4 3 2 5
+5 3 2 1 4
+2 5 1 4 3
+Generated KenKen table (size 6,number 6):
+-----------------------
+[3, 5, 6, 4, 1, 2]
+[4, 3, 2, 1, 6, 5]
+[2, 1, 4, 3, 5, 6]
+[5, 2, 3, 6, 4, 1]
+[1, 6, 5, 2, 3, 4]
+[6, 4, 1, 5, 2, 3]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (0, 1), (0, 2), (1, 2), (2, 2), (2, 3)], Operation: *, Target: 2160
+Cage Cells: [(0, 3), (0, 4), (1, 4)], Operation: *, Target: 24
+Cage Cells: [(0, 5), (1, 5), (2, 5), (2, 4), (3, 4)], Operation: *, Target: 1200
+Cage Cells: [(1, 0), (2, 0), (3, 0), (3, 1)], Operation: +, Target: 13
+Cage Cells: [(1, 1), (2, 1)], Operation: *, Target: 3
+Cage Cells: [(1, 3)], Operation: +, Target: 1
+Cage Cells: [(3, 2), (3, 3), (4, 3), (4, 2)], Operation: *, Target: 180
+Cage Cells: [(3, 5), (4, 5), (4, 4), (5, 4), (5, 3)], Operation: +, Target: 15
+Cage Cells: [(4, 0), (5, 0), (5, 1), (4, 1)], Operation: *, Target: 144
+Cage Cells: [(5, 2)], Operation: +, Target: 1
+Cage Cells: [(5, 5)], Operation: +, Target: 3
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+3 5 6 4 1 2
+2 3 4 1 6 5
+4 1 2 3 5 6
+5 2 3 6 4 1
+1 6 5 2 3 4
+6 4 1 5 2 3
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+3 5 2 4 1 6
+2 3 4 1 6 5
+4 1 3 6 5 2
+5 2 6 3 4 1
+1 6 5 2 3 4
+6 4 1 5 2 3
+Generated KenKen table (size 6,number 6):
+-----------------------
+[5, 2, 3, 1, 4, 6]
+[6, 3, 4, 5, 2, 1]
+[2, 6, 1, 4, 3, 5]
+[1, 4, 6, 3, 5, 2]
+[3, 1, 5, 2, 6, 4]
+[4, 5, 2, 6, 1, 3]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: *, Target: 5
+Cage Cells: [(0, 1), (1, 1), (2, 1)], Operation: +, Target: 11
+Cage Cells: [(0, 2), (1, 2), (2, 2)], Operation: +, Target: 8
+Cage Cells: [(0, 3), (1, 3), (2, 3)], Operation: *, Target: 20
+Cage Cells: [(0, 4)], Operation: /, Target: 4
+Cage Cells: [(0, 5), (1, 5), (1, 4), (2, 4), (2, 5)], Operation: *, Target: 180
+Cage Cells: [(1, 0), (2, 0), (3, 0)], Operation: +, Target: 9
+Cage Cells: [(3, 1)], Operation: *, Target: 4
+Cage Cells: [(3, 2), (4, 2), (4, 3)], Operation: +, Target: 13
+Cage Cells: [(3, 3), (3, 4)], Operation: -, Target: 2
+Cage Cells: [(3, 5), (4, 5), (4, 4), (5, 4), (5, 5)], Operation: +, Target: 16
+Cage Cells: [(4, 0), (4, 1), (5, 1), (5, 2), (5, 3)], Operation: *, Target: 180
+Cage Cells: [(5, 0)], Operation: +, Target: 4
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+5 6 3 1 4 2
+6 2 4 5 3 1
+2 3 1 4 6 5
+1 4 2 3 5 6
+3 1 5 6 2 4
+4 5 6 2 1 3
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+5 6 3 1 4 2
+6 2 4 5 1 3
+2 3 1 4 6 5
+1 4 2 3 5 6
+3 1 5 6 2 4
+4 5 6 2 3 1
+Generated KenKen table (size 6,number 6):
+-----------------------
+[1, 6, 4, 5, 2, 3]
+[6, 5, 2, 3, 4, 1]
+[3, 1, 6, 2, 5, 4]
+[5, 2, 3, 4, 1, 6]
+[4, 3, 5, 1, 6, 2]
+[2, 4, 1, 6, 3, 5]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (0, 1)], Operation: +, Target: 7
+Cage Cells: [(0, 2), (0, 3), (0, 4), (0, 5), (1, 5), (2, 5)], Operation: +, Target: 19
+Cage Cells: [(1, 0), (2, 0), (2, 1), (2, 2), (2, 3)], Operation: *, Target: 216
+Cage Cells: [(1, 1), (1, 2), (1, 3), (1, 4), (2, 4)], Operation: *, Target: 600
+Cage Cells: [(3, 0), (3, 1), (3, 2), (3, 3)], Operation: *, Target: 120
+Cage Cells: [(3, 4), (3, 5)], Operation: +, Target: 7
+Cage Cells: [(4, 0), (5, 0), (5, 1), (4, 1), (4, 2)], Operation: *, Target: 480
+Cage Cells: [(4, 3), (4, 4), (4, 5), (5, 5)], Operation: +, Target: 14
+Cage Cells: [(5, 2)], Operation: -, Target: 1
+Cage Cells: [(5, 3), (5, 4)], Operation: +, Target: 9
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+4 3 2 5 6 1
+2 4 6 1 5 3
+5 1 3 6 4 2
+3 5 4 2 1 6
+1 6 5 3 2 4
+6 2 1 4 3 5
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1 6 5 4 2 3
+6 2 3 5 4 1
+3 1 6 2 5 4
+2 5 4 3 1 6
+4 3 2 1 6 5
+5 4 1 6 3 2
+Generated KenKen table (size 6,number 6):
+-----------------------
+[6, 2, 3, 4, 1, 5]
+[1, 3, 4, 2, 5, 6]
+[4, 1, 6, 5, 2, 3]
+[5, 6, 1, 3, 4, 2]
+[2, 4, 5, 6, 3, 1]
+[3, 5, 2, 1, 6, 4]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0), (2, 0), (2, 1), (2, 2)], Operation: +, Target: 18
+Cage Cells: [(0, 1), (0, 2), (0, 3), (1, 3), (2, 3), (2, 4)], Operation: +, Target: 18
+Cage Cells: [(0, 4)], Operation: -, Target: 1
+Cage Cells: [(0, 5), (1, 5), (1, 4)], Operation: +, Target: 16
+Cage Cells: [(1, 1), (1, 2)], Operation: *, Target: 12
+Cage Cells: [(2, 5), (3, 5), (4, 5), (4, 4)], Operation: +, Target: 9
+Cage Cells: [(3, 0), (3, 1), (3, 2), (3, 3), (4, 3)], Operation: +, Target: 21
+Cage Cells: [(3, 4)], Operation: +, Target: 4
+Cage Cells: [(4, 0), (4, 1)], Operation: +, Target: 6
+Cage Cells: [(4, 2), (5, 2), (5, 3), (5, 4)], Operation: +, Target: 14
+Cage Cells: [(5, 0), (5, 1)], Operation: +, Target: 8
+Cage Cells: [(5, 5)], Operation: *, Target: 4
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+6 2 3 4 1 5
+1 3 4 2 5 6
+4 1 6 5 2 3
+5 6 1 3 4 2
+2 4 5 6 3 1
+3 5 2 1 6 4
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+6 2 3 4 1 5
+1 3 4 2 5 6
+4 1 6 5 2 3
+5 6 1 3 4 2
+2 4 5 6 3 1
+3 5 2 1 6 4
+Generated KenKen table (size 6,number 6):
+-----------------------
+[1, 4, 5, 2, 3, 6]
+[4, 6, 3, 5, 1, 2]
+[2, 3, 1, 6, 4, 5]
+[6, 5, 4, 1, 2, 3]
+[3, 2, 6, 4, 5, 1]
+[5, 1, 2, 3, 6, 4]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0)], Operation: +, Target: 5
+Cage Cells: [(0, 1), (1, 1), (1, 2), (2, 2)], Operation: +, Target: 14
+Cage Cells: [(0, 2)], Operation: /, Target: 5
+Cage Cells: [(0, 3), (0, 4), (1, 4)], Operation: +, Target: 6
+Cage Cells: [(0, 5), (1, 5), (2, 5)], Operation: +, Target: 13
+Cage Cells: [(1, 3), (2, 3), (2, 4), (3, 4), (4, 4)], Operation: *, Target: 1200
+Cage Cells: [(2, 0), (3, 0), (3, 1), (2, 1)], Operation: +, Target: 16
+Cage Cells: [(3, 2), (3, 3), (4, 3)], Operation: +, Target: 9
+Cage Cells: [(3, 5), (4, 5), (5, 5), (5, 4)], Operation: *, Target: 72
+Cage Cells: [(4, 0), (4, 1), (5, 1)], Operation: +, Target: 6
+Cage Cells: [(4, 2)], Operation: *, Target: 6
+Cage Cells: [(5, 0)], Operation: *, Target: 5
+Cage Cells: [(5, 2), (5, 3)], Operation: +, Target: 5
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+1 4 5 2 3 6
+4 6 3 5 1 2
+2 3 1 6 4 5
+6 5 4 1 2 3
+3 2 6 4 5 1
+5 1 2 3 6 4
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1 4 5 2 3 6
+4 6 3 5 1 2
+2 3 1 6 4 5
+6 5 4 1 2 3
+3 2 6 4 5 1
+5 1 2 3 6 4
+Generated KenKen table (size 6,number 6):
+-----------------------
+[3, 5, 4, 2, 6, 1]
+[5, 4, 3, 1, 2, 6]
+[2, 1, 6, 3, 5, 4]
+[4, 3, 5, 6, 1, 2]
+[6, 2, 1, 4, 3, 5]
+[1, 6, 2, 5, 4, 3]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0), (2, 0)], Operation: +, Target: 10
+Cage Cells: [(0, 1), (0, 2)], Operation: /, Target: 1.25
+Cage Cells: [(0, 3)], Operation: *, Target: 2
+Cage Cells: [(0, 4), (0, 5), (1, 5)], Operation: +, Target: 13
+Cage Cells: [(1, 1), (2, 1), (3, 1), (4, 1), (5, 1), (5, 0)], Operation: *, Target: 144
+Cage Cells: [(1, 2)], Operation: +, Target: 3
+Cage Cells: [(1, 3), (2, 3), (3, 3), (3, 2), (4, 2), (4, 3)], Operation: *, Target: 360
+Cage Cells: [(1, 4), (2, 4), (2, 5)], Operation: +, Target: 11
+Cage Cells: [(2, 2)], Operation: *, Target: 6
+Cage Cells: [(3, 0), (4, 0)], Operation: *, Target: 24
+Cage Cells: [(3, 4), (4, 4), (4, 5), (3, 5)], Operation: +, Target: 11
+Cage Cells: [(5, 2), (5, 3), (5, 4), (5, 5)], Operation: *, Target: 120
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+3 5 4 2 6 1
+5 4 3 1 2 6
+2 1 6 3 4 5
+4 2 5 6 1 3
+6 3 1 4 5 2
+1 6 2 5 3 4
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+3 5.0 4.0 2 6 1
+2 4 3 1 5 6
+5 1 6 3 2 4
+6 3 5 4 1 2
+4 2 1 6 3 5
+1 6 2 5 4 3
+Generated KenKen table (size 6,number 6):
+-----------------------
+[3, 2, 4, 1, 6, 5]
+[6, 5, 3, 4, 1, 2]
+[2, 3, 6, 5, 4, 1]
+[1, 6, 2, 3, 5, 4]
+[4, 1, 5, 6, 2, 3]
+[5, 4, 1, 2, 3, 6]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0), (1, 1), (0, 1), (0, 2), (0, 3)], Operation: *, Target: 720
+Cage Cells: [(0, 4), (0, 5)], Operation: +, Target: 11
+Cage Cells: [(1, 2), (2, 2), (2, 1), (3, 1), (3, 2), (3, 3)], Operation: *, Target: 1944
+Cage Cells: [(1, 3), (1, 4), (1, 5), (2, 5), (2, 4)], Operation: +, Target: 12
+Cage Cells: [(2, 0), (3, 0), (4, 0), (5, 0)], Operation: *, Target: 40
+Cage Cells: [(2, 3)], Operation: *, Target: 5
+Cage Cells: [(3, 4), (4, 4), (4, 3), (4, 2), (4, 1), (5, 1)], Operation: *, Target: 1200
+Cage Cells: [(3, 5), (4, 5), (5, 5)], Operation: *, Target: 72
+Cage Cells: [(5, 2), (5, 3), (5, 4)], Operation: +, Target: 6
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+3 1 4 2 6 5
+6 4 5 3 2 1
+1 6 3 5 4 2
+2 3 1 6 5 4
+5 2 6 4 1 3
+4 5 2 1 3 6
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+3 2 4 1 6 5
+6 5 3 4 1 2
+2 3 6 5 4 1
+1 6 2 3 5 4
+4 1 5 6 2 3
+5 4 1 2 3 6
+Generated KenKen table (size 6,number 6):
+-----------------------
+[2, 1, 3, 6, 4, 5]
+[3, 4, 5, 1, 6, 2]
+[1, 3, 4, 5, 2, 6]
+[4, 2, 6, 3, 5, 1]
+[6, 5, 2, 4, 1, 3]
+[5, 6, 1, 2, 3, 4]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (0, 1), (1, 1)], Operation: +, Target: 7
+Cage Cells: [(0, 2), (1, 2), (1, 3), (0, 3), (0, 4)], Operation: *, Target: 360
+Cage Cells: [(0, 5), (1, 5), (1, 4), (2, 4), (3, 4), (3, 5)], Operation: *, Target: 600
+Cage Cells: [(1, 0), (2, 0), (3, 0), (3, 1)], Operation: *, Target: 24
+Cage Cells: [(2, 1), (2, 2), (3, 2), (4, 2)], Operation: +, Target: 15
+Cage Cells: [(2, 3), (3, 3), (4, 3), (5, 3)], Operation: *, Target: 120
+Cage Cells: [(2, 5)], Operation: *, Target: 6
+Cage Cells: [(4, 0), (5, 0)], Operation: *, Target: 30
+Cage Cells: [(4, 1), (5, 1), (5, 2)], Operation: *, Target: 30
+Cage Cells: [(4, 4), (4, 5)], Operation: -, Target: 2
+Cage Cells: [(5, 4)], Operation: *, Target: 3
+Cage Cells: [(5, 5)], Operation: +, Target: 4
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+4 2 6 3 1 5
+3 1 4 5 6 2
+1 5 3 4 2 6
+2 3 5 6 4 1
+6 4 2 1 5 3
+5 6 1 2 3 4
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+2 1 3 6 4 5
+3 4 5 1 6 2
+1 3 4 5 2 6
+4 2 6 3 5 1
+6 5 2 4 1 3
+5 6 1 2 3 4
+Generated KenKen table (size 6,number 6):
+-----------------------
+[2, 3, 6, 1, 5, 4]
+[3, 1, 2, 4, 6, 5]
+[4, 5, 1, 6, 3, 2]
+[1, 2, 5, 3, 4, 6]
+[6, 4, 3, 5, 2, 1]
+[5, 6, 4, 2, 1, 3]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (0, 1), (0, 2), (1, 2)], Operation: +, Target: 13
+Cage Cells: [(0, 3), (0, 4), (0, 5), (1, 5), (2, 5)], Operation: *, Target: 200
+Cage Cells: [(1, 0), (2, 0), (2, 1), (3, 1), (3, 0), (4, 0)], Operation: *, Target: 720
+Cage Cells: [(1, 1)], Operation: *, Target: 1
+Cage Cells: [(1, 3), (2, 3)], Operation: *, Target: 24
+Cage Cells: [(1, 4), (2, 4), (3, 4), (3, 3)], Operation: *, Target: 216
+Cage Cells: [(2, 2)], Operation: +, Target: 1
+Cage Cells: [(3, 2)], Operation: *, Target: 5
+Cage Cells: [(3, 5), (4, 5), (5, 5), (5, 4)], Operation: *, Target: 18
+Cage Cells: [(4, 1)], Operation: +, Target: 4
+Cage Cells: [(4, 2), (4, 3), (5, 3), (5, 2), (5, 1)], Operation: *, Target: 720
+Cage Cells: [(4, 4)], Operation: *, Target: 2
+Cage Cells: [(5, 0)], Operation: *, Target: 5
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+6 2 3 1 5 4
+3 1 2 4 6 5
+4 5 1 6 3 2
+2 6 5 3 4 1
+1 4 6 5 2 3
+5 3 4 2 1 6
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+2 3 6 1 5 4
+4 1 2 6 3 5
+3 5 1 4 6 2
+1 2 5 3 4 6
+6 4 3 5 2 1
+5 6 4 2 1 3
+Generated KenKen table (size 6,number 6):
+-----------------------
+[2, 6, 3, 4, 1, 5]
+[1, 3, 4, 2, 5, 6]
+[6, 1, 5, 3, 4, 2]
+[5, 2, 1, 6, 3, 4]
+[4, 5, 2, 1, 6, 3]
+[3, 4, 6, 5, 2, 1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: /, Target: 2
+Cage Cells: [(0, 1), (0, 2), (0, 3), (0, 4), (1, 4), (1, 3)], Operation: *, Target: 720
+Cage Cells: [(0, 5)], Operation: -, Target: 5
+Cage Cells: [(1, 0), (1, 1), (1, 2), (2, 2)], Operation: +, Target: 13
+Cage Cells: [(1, 5), (2, 5), (2, 4), (2, 3), (3, 3)], Operation: +, Target: 21
+Cage Cells: [(2, 0), (2, 1), (3, 1), (3, 0), (4, 0), (4, 1)], Operation: *, Target: 1200
+Cage Cells: [(3, 2)], Operation: *, Target: 1
+Cage Cells: [(3, 4), (3, 5), (4, 5), (5, 5)], Operation: +, Target: 11
+Cage Cells: [(4, 2), (5, 2), (5, 3), (5, 4), (4, 4)], Operation: +, Target: 21
+Cage Cells: [(4, 3)], Operation: *, Target: 1
+Cage Cells: [(5, 0), (5, 1)], Operation: *, Target: 12
+-----------------------
+Solved KenKen Puzzle (BackTracking):
+2 3 6 4 1 5
+1 6 4 2 5 3
+5 1 2 6 3 4
+3 4 1 5 2 6
+4 5 3 1 6 2
+6 2 5 3 4 1
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+2 3 6 4 1 5
+1 6 4 2 5 3
+5 1 2 6 3 4
+3 4 1 5 2 6
+4 5 3 1 6 2
+6 2 5 3 4 1
+Generated KenKen table (size 7,number 7):
+-----------------------
+[6, 5, 4, 1, 3, 7, 2]
+[2, 3, 5, 6, 7, 4, 1]
+[7, 2, 1, 3, 6, 5, 4]
+[3, 1, 7, 4, 2, 6, 5]
+[1, 7, 3, 5, 4, 2, 6]
+[5, 4, 6, 2, 1, 3, 7]
+[4, 6, 2, 7, 5, 1, 3]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0), (2, 0), (3, 0), (4, 0)], Operation: *, Target: 252
+Cage Cells: [(0, 1), (0, 2), (0, 3), (1, 3), (2, 3)], Operation: +, Target: 19
+Cage Cells: [(0, 4), (0, 5), (0, 6), (1, 6), (2, 6), (3, 6)], Operation: +, Target: 22
+Cage Cells: [(1, 1), (1, 2), (2, 2), (2, 1), (3, 1), (3, 2)], Operation: *, Target: 210
+Cage Cells: [(1, 4), (2, 4), (3, 4), (3, 5)], Operation: *, Target: 504
+Cage Cells: [(1, 5), (2, 5)], Operation: *, Target: 20
+Cage Cells: [(3, 3), (4, 3), (4, 4)], Operation: *, Target: 80
+Cage Cells: [(4, 1)], Operation: /, Target: 7
+Cage Cells: [(4, 2), (5, 2), (6, 2), (6, 3), (5, 3), (5, 4), (5, 5)], Operation: *, Target: 1512
+Cage Cells: [(4, 5), (4, 6), (5, 6)], Operation: *, Target: 84
+Cage Cells: [(5, 0), (5, 1)], Operation: *, Target: 20
+Cage Cells: [(6, 0), (6, 1)], Operation: +, Target: 10
+Cage Cells: [(6, 4), (6, 5), (6, 6)], Operation: *, Target: 15
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+6 5 4 3 1 7 2
+2 3 1 6 7 5 4
+3 2 7 1 6 4 5
+7 1 5 4 2 6 3
+1 7 3 5 4 2 6
+5 4 6 2 3 1 7
+4 6 2 7 5 3 1
+Generated KenKen table (size 7,number 7):
+-----------------------
+[5, 2, 3, 4, 6, 1, 7]
+[2, 3, 6, 7, 4, 5, 1]
+[3, 4, 2, 6, 1, 7, 5]
+[4, 1, 5, 2, 7, 6, 3]
+[6, 5, 7, 1, 3, 4, 2]
+[7, 6, 1, 3, 5, 2, 4]
+[1, 7, 4, 5, 2, 3, 6]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: *, Target: 5
+Cage Cells: [(0, 1), (1, 1), (1, 2), (2, 2), (2, 3), (3, 3)], Operation: +, Target: 21
+Cage Cells: [(0, 2), (0, 3), (0, 4), (0, 5), (1, 5), (1, 6)], Operation: +, Target: 20
+Cage Cells: [(0, 6)], Operation: +, Target: 7
+Cage Cells: [(1, 0), (2, 0), (2, 1), (3, 1)], Operation: *, Target: 24
+Cage Cells: [(1, 3), (1, 4), (2, 4), (3, 4), (4, 4)], Operation: +, Target: 22
+Cage Cells: [(2, 5), (3, 5), (4, 5), (4, 6), (5, 6), (6, 6)], Operation: +, Target: 29
+Cage Cells: [(2, 6), (3, 6)], Operation: *, Target: 15
+Cage Cells: [(3, 0), (4, 0), (4, 1), (4, 2), (3, 2)], Operation: *, Target: 4200
+Cage Cells: [(4, 3), (5, 3), (5, 4), (5, 5), (6, 5), (6, 4)], Operation: +, Target: 16
+Cage Cells: [(5, 0), (5, 1), (5, 2), (6, 2)], Operation: +, Target: 18
+Cage Cells: [(6, 0), (6, 1)], Operation: +, Target: 8
+Cage Cells: [(6, 3)], Operation: -, Target: 5
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+5 2 4 6 1 3 7
+2 3 6 4 7 5 1
+3 4 1 2 6 7 5
+6 1 5 7 2 4 3
+4 5 7 1 3 6 2
+7 6 2 3 5 1 4
+1 7 3 5 4 2 6
+Generated KenKen table (size 7,number 7):
+-----------------------
+[3, 5, 1, 7, 6, 2, 4]
+[4, 2, 5, 3, 1, 7, 6]
+[1, 4, 3, 2, 5, 6, 7]
+[2, 3, 4, 6, 7, 1, 5]
+[6, 7, 2, 4, 3, 5, 1]
+[5, 6, 7, 1, 4, 3, 2]
+[7, 1, 6, 5, 2, 4, 3]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0), (2, 0), (3, 0), (4, 0), (5, 0), (5, 1)], Operation: *, Target: 4320
+Cage Cells: [(0, 1), (0, 2), (1, 2), (2, 2), (2, 1)], Operation: *, Target: 300
+Cage Cells: [(0, 3), (0, 4)], Operation: *, Target: 42
+Cage Cells: [(0, 5), (0, 6), (1, 6), (2, 6), (2, 5), (3, 5), (4, 5)], Operation: *, Target: 10080
+Cage Cells: [(1, 1)], Operation: *, Target: 2
+Cage Cells: [(1, 3), (1, 4), (1, 5)], Operation: *, Target: 21
+Cage Cells: [(2, 3), (2, 4), (3, 4), (4, 4), (4, 3)], Operation: +, Target: 21
+Cage Cells: [(3, 1)], Operation: -, Target: 3
+Cage Cells: [(3, 2)], Operation: -, Target: 4
+Cage Cells: [(3, 3)], Operation: +, Target: 6
+Cage Cells: [(3, 6), (4, 6), (5, 6), (6, 6), (6, 5), (6, 4), (5, 4)], Operation: +, Target: 21
+Cage Cells: [(4, 1), (4, 2), (5, 2), (6, 2), (6, 3)], Operation: +, Target: 27
+Cage Cells: [(5, 3)], Operation: *, Target: 1
+Cage Cells: [(5, 5)], Operation: +, Target: 3
+Cage Cells: [(6, 0), (6, 1)], Operation: +, Target: 8
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+1 5 3 7 6 2 4
+4 2 5 3 1 7 6
+6 4 1 2 3 5 7
+5 3 4 6 7 1 2
+3 7 2 4 5 6 1
+2 6 7 1 4 3 5
+7 1 6 5 2 4 3
+Generated KenKen table (size 7,number 7):
+-----------------------
+[4, 5, 6, 1, 7, 3, 2]
+[7, 4, 2, 6, 3, 1, 5]
+[3, 2, 7, 4, 1, 5, 6]
+[6, 1, 3, 5, 2, 4, 7]
+[5, 7, 1, 2, 4, 6, 3]
+[1, 3, 5, 7, 6, 2, 4]
+[2, 6, 4, 3, 5, 7, 1]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (0, 1), (1, 1), (1, 2), (2, 2), (2, 3), (2, 4)], Operation: *, Target: 4480
+Cage Cells: [(0, 2), (0, 3), (0, 4)], Operation: +, Target: 14
+Cage Cells: [(0, 5), (1, 5), (1, 4), (1, 3)], Operation: *, Target: 54
+Cage Cells: [(0, 6), (1, 6), (2, 6), (2, 5), (3, 5)], Operation: +, Target: 22
+Cage Cells: [(1, 0), (2, 0), (2, 1)], Operation: *, Target: 42
+Cage Cells: [(3, 0)], Operation: *, Target: 6
+Cage Cells: [(3, 1), (3, 2), (3, 3), (4, 3), (4, 2), (5, 2)], Operation: +, Target: 17
+Cage Cells: [(3, 4)], Operation: /, Target: 2
+Cage Cells: [(3, 6), (4, 6), (4, 5), (5, 5), (6, 5), (6, 4)], Operation: +, Target: 30
+Cage Cells: [(4, 0), (4, 1), (5, 1), (5, 0), (6, 0), (6, 1)], Operation: *, Target: 1260
+Cage Cells: [(4, 4), (5, 4), (5, 3), (6, 3), (6, 2)], Operation: +, Target: 24
+Cage Cells: [(5, 6), (6, 6)], Operation: +, Target: 5
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+4 5 6 1 7 3 2
+7 4 2 3 6 1 5
+3 2 7 4 1 5 6
+6 1 3 5 2 4 7
+5 7 1 2 4 6 3
+1 6 5 7 3 2 4
+2 3 4 6 5 7 1
+Generated KenKen table (size 7,number 7):
+-----------------------
+[5, 1, 6, 4, 2, 7, 3]
+[6, 2, 4, 3, 5, 1, 7]
+[4, 5, 7, 1, 3, 6, 2]
+[2, 4, 5, 6, 7, 3, 1]
+[1, 3, 2, 7, 6, 5, 4]
+[7, 6, 3, 2, 1, 4, 5]
+[3, 7, 1, 5, 4, 2, 6]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (0, 1), (1, 1), (1, 2), (0, 2)], Operation: +, Target: 18
+Cage Cells: [(0, 3), (1, 3), (2, 3), (2, 4), (3, 4)], Operation: *, Target: 252
+Cage Cells: [(0, 4), (0, 5), (0, 6), (1, 6)], Operation: +, Target: 19
+Cage Cells: [(1, 0), (2, 0), (3, 0), (3, 1), (3, 2), (3, 3), (4, 3)], Operation: *, Target: 40320
+Cage Cells: [(1, 4), (1, 5), (2, 5), (3, 5)], Operation: *, Target: 90
+Cage Cells: [(2, 1), (2, 2)], Operation: +, Target: 12
+Cage Cells: [(2, 6), (3, 6), (4, 6), (4, 5), (5, 5), (5, 6), (6, 6)], Operation: *, Target: 4800
+Cage Cells: [(4, 0), (4, 1), (4, 2), (5, 2), (6, 2), (6, 1), (6, 0)], Operation: *, Target: 378
+Cage Cells: [(4, 4), (5, 4), (5, 3)], Operation: *, Target: 12
+Cage Cells: [(5, 0), (5, 1)], Operation: /, Target: 1.16
+Cage Cells: [(6, 3), (6, 4), (6, 5)], Operation: *, Target: 40
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+5 4 6 1 2 7 3
+4 1 2 3 5 6 7
+6 7 5 4 3 1 2
+2 5 4 6 7 3 1
+3 2 1 7 6 4 5
+7.0 6.0 3 2 1 5 4
+1 3 7 5 4 2 6
+Generated KenKen table (size 7,number 7):
+-----------------------
+[5, 2, 4, 6, 1, 7, 3]
+[3, 5, 1, 4, 7, 6, 2]
+[2, 6, 7, 5, 4, 3, 1]
+[7, 1, 6, 2, 3, 5, 4]
+[6, 7, 3, 1, 2, 4, 5]
+[1, 4, 5, 3, 6, 2, 7]
+[4, 3, 2, 7, 5, 1, 6]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (0, 1)], Operation: *, Target: 10
+Cage Cells: [(0, 2), (1, 2)], Operation: -, Target: 3
+Cage Cells: [(0, 3)], Operation: /, Target: 6
+Cage Cells: [(0, 4), (0, 5), (0, 6)], Operation: +, Target: 11
+Cage Cells: [(1, 0), (1, 1), (2, 1)], Operation: +, Target: 14
+Cage Cells: [(1, 3), (1, 4), (1, 5)], Operation: +, Target: 17
+Cage Cells: [(1, 6), (2, 6), (3, 6), (3, 5), (4, 5), (4, 4), (5, 4)], Operation: *, Target: 1920
+Cage Cells: [(2, 0), (3, 0)], Operation: -, Target: 5
+Cage Cells: [(2, 2), (3, 2), (4, 2), (4, 1)], Operation: +, Target: 23
+Cage Cells: [(2, 3), (2, 4), (2, 5)], Operation: *, Target: 60
+Cage Cells: [(3, 1)], Operation: +, Target: 1
+Cage Cells: [(3, 3)], Operation: +, Target: 2
+Cage Cells: [(3, 4)], Operation: +, Target: 3
+Cage Cells: [(4, 0), (5, 0)], Operation: *, Target: 6
+Cage Cells: [(4, 3), (5, 3), (6, 3), (6, 2)], Operation: +, Target: 13
+Cage Cells: [(4, 6), (5, 6), (5, 5)], Operation: *, Target: 70
+Cage Cells: [(5, 1), (6, 1)], Operation: *, Target: 12
+Cage Cells: [(5, 2)], Operation: +, Target: 5
+Cage Cells: [(6, 0)], Operation: *, Target: 4
+Cage Cells: [(6, 4), (6, 5), (6, 6)], Operation: +, Target: 12
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+5 2 4 6 1 7 3
+3 5 1 4 7 6 2
+2 6 7 5 4 3 1
+7 1 6 2 3 5 4
+6 7 3 1 2 4 5
+1 4 5 3 6 2 7
+4 3 2 7 5 1 6
+Generated KenKen table (size 7,number 7):
+-----------------------
+[4, 6, 2, 5, 3, 7, 1]
+[1, 5, 4, 6, 7, 2, 3]
+[6, 2, 7, 1, 4, 3, 5]
+[7, 4, 5, 3, 6, 1, 2]
+[5, 3, 1, 7, 2, 6, 4]
+[3, 1, 6, 2, 5, 4, 7]
+[2, 7, 3, 4, 1, 5, 6]
+Generated KenKen Cages:
+Cage Cells: [(0, 0)], Operation: +, Target: 4
+Cage Cells: [(0, 1), (1, 1), (2, 1), (2, 0)], Operation: *, Target: 360
+Cage Cells: [(0, 2), (0, 3), (0, 4), (0, 5), (1, 5), (1, 6)], Operation: *, Target: 1260
+Cage Cells: [(0, 6)], Operation: +, Target: 1
+Cage Cells: [(1, 0)], Operation: +, Target: 1
+Cage Cells: [(1, 2)], Operation: *, Target: 4
+Cage Cells: [(1, 3), (1, 4), (2, 4), (2, 3), (3, 3), (3, 4)], Operation: +, Target: 27
+Cage Cells: [(2, 2), (3, 2)], Operation: -, Target: 2
+Cage Cells: [(2, 5)], Operation: -, Target: 3
+Cage Cells: [(2, 6)], Operation: +, Target: 5
+Cage Cells: [(3, 0), (3, 1), (4, 1), (4, 0), (5, 0), (6, 0), (6, 1)], Operation: +, Target: 31
+Cage Cells: [(3, 5), (4, 5), (4, 6)], Operation: *, Target: 24
+Cage Cells: [(3, 6)], Operation: *, Target: 2
+Cage Cells: [(4, 2), (5, 2), (5, 1)], Operation: +, Target: 8
+Cage Cells: [(4, 3), (5, 3)], Operation: *, Target: 14
+Cage Cells: [(4, 4), (5, 4), (6, 4)], Operation: +, Target: 8
+Cage Cells: [(5, 5), (6, 5), (6, 6), (5, 6)], Operation: *, Target: 840
+Cage Cells: [(6, 2), (6, 3)], Operation: *, Target: 12
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+4 6 2 5 3 7 1
+1 5 4 6 7 2 3
+6 2 7 1 4 3 5
+7 4 5 3 6 1 2
+5 3 1 7 2 6 4
+3 1 6 2 5 4 7
+2 7 3 4 1 5 6
+Generated KenKen table (size 7,number 7):
+-----------------------
+[2, 3, 1, 7, 5, 4, 6]
+[6, 5, 2, 4, 1, 7, 3]
+[5, 6, 4, 2, 3, 1, 7]
+[3, 2, 7, 6, 4, 5, 1]
+[1, 7, 5, 3, 2, 6, 4]
+[4, 1, 6, 5, 7, 3, 2]
+[7, 4, 3, 1, 6, 2, 5]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0), (1, 1), (1, 2), (1, 3), (0, 3), (0, 2)], Operation: +, Target: 27
+Cage Cells: [(0, 1)], Operation: *, Target: 3
+Cage Cells: [(0, 4), (0, 5), (1, 5), (1, 4)], Operation: +, Target: 17
+Cage Cells: [(0, 6)], Operation: -, Target: 6
+Cage Cells: [(1, 6), (2, 6), (2, 5), (3, 5), (3, 6), (4, 6)], Operation: *, Target: 420
+Cage Cells: [(2, 0), (3, 0), (4, 0), (4, 1)], Operation: *, Target: 105
+Cage Cells: [(2, 1), (2, 2), (2, 3), (2, 4), (3, 4), (3, 3), (4, 3)], Operation: *, Target: 10368
+Cage Cells: [(3, 1), (3, 2), (4, 2), (5, 2), (5, 1)], Operation: +, Target: 21
+Cage Cells: [(4, 4), (4, 5)], Operation: /, Target: 3.00
+Cage Cells: [(5, 0), (6, 0)], Operation: *, Target: 28
+Cage Cells: [(5, 3), (5, 4), (5, 5), (6, 5)], Operation: +, Target: 17
+Cage Cells: [(5, 6), (6, 6)], Operation: +, Target: 7
+Cage Cells: [(6, 1), (6, 2), (6, 3), (6, 4)], Operation: +, Target: 14
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+2 3 4 1 5 7 6
+6 5 2 7 1 4 3
+5 4 6 2 3 1 7
+3 2 7 4 6 5 1
+1 7 5 3 2.0 6.0 4
+4 6 1 5 7 3 2
+7 1 3 6 4 2 5
+Generated KenKen table (size 7,number 7):
+-----------------------
+[6, 4, 2, 3, 5, 1, 7]
+[3, 7, 1, 6, 4, 5, 2]
+[4, 1, 7, 5, 3, 2, 6]
+[5, 3, 4, 2, 7, 6, 1]
+[2, 6, 5, 4, 1, 7, 3]
+[1, 5, 6, 7, 2, 3, 4]
+[7, 2, 3, 1, 6, 4, 5]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0), (2, 0)], Operation: *, Target: 72
+Cage Cells: [(0, 1), (1, 1), (2, 1)], Operation: *, Target: 28
+Cage Cells: [(0, 2), (0, 3), (1, 3), (1, 4), (2, 4), (2, 3), (3, 3)], Operation: +, Target: 25
+Cage Cells: [(0, 4), (0, 5), (1, 5), (2, 5)], Operation: *, Target: 50
+Cage Cells: [(0, 6), (1, 6), (2, 6), (3, 6), (4, 6), (5, 6)], Operation: *, Target: 1008
+Cage Cells: [(1, 2), (2, 2), (3, 2), (3, 1), (4, 1), (5, 1), (6, 1)], Operation: +, Target: 28
+Cage Cells: [(3, 0), (4, 0), (5, 0), (6, 0)], Operation: +, Target: 15
+Cage Cells: [(3, 4), (3, 5), (4, 5), (4, 4), (4, 3), (4, 2), (5, 2)], Operation: *, Target: 35280
+Cage Cells: [(5, 3), (5, 4)], Operation: *, Target: 14
+Cage Cells: [(5, 5), (6, 5), (6, 4)], Operation: *, Target: 72
+Cage Cells: [(6, 2), (6, 3)], Operation: *, Target: 3
+Cage Cells: [(6, 6)], Operation: +, Target: 5
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+6 7 1 4 5 2 3
+4 1 6 2 3 5 7
+3 4 2 5 7 1 6
+2 5 4 3 6 7 1
+5 3 7 6 1 4 2
+1 6 5 7 2 3 4
+7 2 3 1 4 6 5
+Generated KenKen table (size 7,number 7):
+-----------------------
+[7, 1, 5, 2, 3, 4, 6]
+[3, 7, 6, 4, 2, 1, 5]
+[5, 6, 1, 7, 4, 3, 2]
+[1, 4, 3, 6, 5, 2, 7]
+[2, 3, 4, 5, 7, 6, 1]
+[4, 5, 2, 1, 6, 7, 3]
+[6, 2, 7, 3, 1, 5, 4]
+Generated KenKen Cages:
+Cage Cells: [(0, 0), (1, 0), (1, 1), (0, 1)], Operation: *, Target: 147
+Cage Cells: [(0, 2), (0, 3), (0, 4)], Operation: +, Target: 10
+Cage Cells: [(0, 5), (0, 6), (1, 6), (1, 5)], Operation: *, Target: 120
+Cage Cells: [(1, 2), (2, 2), (3, 2), (3, 1), (4, 1), (5, 1)], Operation: *, Target: 1080
+Cage Cells: [(1, 3), (1, 4), (2, 4), (2, 5), (2, 6)], Operation: +, Target: 15
+Cage Cells: [(2, 0), (3, 0), (4, 0), (5, 0), (6, 0), (6, 1)], Operation: *, Target: 480
+Cage Cells: [(2, 1)], Operation: +, Target: 6
+Cage Cells: [(2, 3), (3, 3), (4, 3), (5, 3)], Operation: +, Target: 19
+Cage Cells: [(3, 4), (3, 5)], Operation: +, Target: 7
+Cage Cells: [(3, 6)], Operation: +, Target: 7
+Cage Cells: [(4, 2)], Operation: +, Target: 4
+Cage Cells: [(4, 4)], Operation: +, Target: 7
+Cage Cells: [(4, 5), (5, 5), (5, 4), (6, 4), (6, 5)], Operation: +, Target: 25
+Cage Cells: [(4, 6), (5, 6), (6, 6)], Operation: *, Target: 12
+Cage Cells: [(5, 2), (6, 2), (6, 3)], Operation: *, Target: 42
+-----------------------
+Solved KenKen Puzzle (domain CSP):
+7 1 5 2 3 4 6
+3 7 6 4 2 1 5
+5 6 1 7 4 3 2
+2 4 3 5 1 6 7
+6 5 4 1 7 2 3
+1 3 2 6 5 7 4
+4 2 7 3 6 5 1
+#################################################################################
+-------------all time back--------------------
+0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+0.0 0.0 0.001544952392578125 0.0021402835845947266 0.0 0.0 0.0 0.0 0.0 0.0
+0.025150299072265625 0.008352041244506836 0.004277467727661133 0.009389877319335938 0.015231132507324219 0.026038169860839844 0.21721291542053223 0.016794681549072266 0.7525219917297363 0.02719712257385254
+3.212949275970459 0.1901991367340088 6.287604570388794 1.7888081073760986 2.3718512058258057 7.662542819976807 0.7225260734558105 1.3290419578552246 0.3232748508453369 0.2974245548248291
+-------------all time csp---------------------
+0 0 0 0 0 0 0 0 0 0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+0.0 0.0 0.0 0.0010221004486083984 0.0 0.0 0.0 0.0 0.0 0.0
+0.0 0.0 0.0 0.0006432533264160156 0.0 0.0 0.0009992122650146484 0.0010001659393310547 0.0 0.0
+0.0 0.0 0.0010001659393310547 0.002161264419555664 0.0068056583404541016 0.005972862243652344 0.0 0.0 0.0 0.0003230571746826172
+0.03392672538757324 0.0 0.21097803115844727 0.025925159454345703 0.08648347854614258 0.03930330276489258 0.12685298919677734 0.006947517395019531 0.0 0.019181251525878906
+0.00933384895324707 0.2289412021636963 0.11298894882202148 11.727226495742798 0.08519887924194336 0.0 0.0150604248046875 0.5122103691101074 0.07393693923950195 0.07939839363098145
+---------------backtrack--------------
+size  Mean                           Variance            
+--------------------------------------------------
+0     0.0                            0.0                 
+1     0.0                            0.0                 
+2     0.0                            0.0                 
+3     0.0                            0.0                 
+4     0.00036852359771728517         5.609595297073611e-07
+5     0.11021656990051269            0.04947343550104279 
+6     2.4186222553253174             6.14172933587331    
+-----------------csp-----------------
+size  Mean                           Variance            
+--------------------------------------------------
+0     0.0                            0.0                 
+1     0.0                            0.0                 
+2     0.0                            0.0                 
+3     0.00010221004486083984         9.402203943409404e-08
+4     0.0002642631530761719          1.7141817579613416e-07
+5     0.001626300811767578           6.131928726063051e-06
+6     0.05495984554290771            0.004166103094462982
+7     1.2844295501708984             12.137713218980867  
