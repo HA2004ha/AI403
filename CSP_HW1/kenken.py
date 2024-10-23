@@ -121,9 +121,7 @@ def solve_kenken(grid, cages):
             return True
         if col == size:
             return fill_grid_backtracking(grid, row + 1, 0)
-        number = list(range(1,size+1))
-        random.shuffle(number)
-        for num in number:
+        for num in range(1,size+1):
             if is_safe_kenken(grid, row, col, num,cages):
                 grid[row][col] = num
                 if fill_grid_backtracking(grid, row, col + 1):
@@ -235,7 +233,7 @@ def solve_kenken_csp(grid, cages):
         def cage_check(operation, cells, target,dev,assignment,num,row,col):
             if len(cells) == 1:
                 return assignment,num == target
-            new_assignment = {key: value.copy() for key, value in assignment.items()}
+            #new_assignment = {key: value.copy() for key, value in assignment.items()}
             check = True
             if operation == "/":
                 MAX = dev[0]
@@ -246,7 +244,7 @@ def solve_kenken_csp(grid, cages):
                     for j in assignment[cells[k2]]:
                         if i*MIN == j*MAX or j*MIN == i*MAX:
                             temp.add(i)
-                new_assignment[(cells[k1])] = temp 
+                assignment[(cells[k1])] = temp 
                 if len(temp) == 0:
                     check = False           
             elif operation == "-":
@@ -257,7 +255,7 @@ def solve_kenken_csp(grid, cages):
                     temp.add(num - target)
                 if num + target in assignment[cells[k1]]:
                     temp.add(num + target)    
-                new_assignment[(cells[k1])] = temp   
+                assignment[(cells[k1])] = temp   
                 if len(temp) == 0:
                     check = False  
             elif operation == "+":
@@ -272,8 +270,8 @@ def solve_kenken_csp(grid, cages):
                 for cell in order_cell:
                     if len(assignment[cell])>1:
                         l = False
-                        new_assignment[cell] = {x for x in new_assignment[cell] if m-(n-k-1)>=x>= m-((n-k-1)*size)}
-                        if len(new_assignment[cell]) == 0:
+                        assignment[cell] = {x for x in assignment[cell] if m-(n-k-1)>=x>= m-((n-k-1)*size)}
+                        if len(assignment[cell]) == 0:
                             check = False
                             break
                     else:
@@ -294,8 +292,8 @@ def solve_kenken_csp(grid, cages):
                 for cell in order_cell:
                     if len(assignment[cell])>1:
                         l = False
-                        new_assignment[cell] = {x for x in new_assignment[cell] if m%x==0}
-                        if len(new_assignment[cell]) == 0:
+                        assignment[cell] = {x for x in assignment[cell] if m%x==0}
+                        if len(assignment[cell]) == 0:
                             check = False
                             break
                     else:
@@ -305,11 +303,8 @@ def solve_kenken_csp(grid, cages):
                             break
                 if l and check and m!=1:
                     check = False        
-      
-            if check:
-                return new_assignment,True
-            else:
-                return assignment,False
+             
+            return assignment,check
             
         def is_valid_assignment(assignment,row,col,num,cage):
             new_assignment= {key: value.copy() for key, value in assignment.items()}
@@ -338,7 +333,10 @@ def solve_kenken_csp(grid, cages):
             if row == -1:
                 return assignment,True
             for num in assignment[(row,col)]:
-                    cage_cells = set(cages[Cage.cells_number_cage[row][col]].cells).union({(x, col) for x in range(size)}, {(row, x) for x in range(size)})
+                    cage_cells = set(cages[Cage.cells_number_cage[row][col]].cells)
+                    for x in range(size):
+                        cage_cells.add((x, col))
+                        cage_cells.add((row, x))
                     copy_assignment = {cell: assignment[cell] for cell in cage_cells}
                     assignment,check = is_valid_assignment(assignment,row,col,num,cages[Cage.cells_number_cage[row][col]])
                     if check:
@@ -378,10 +376,10 @@ def print_solution(solution, file=None):
     return True
 
 # Part 8: Run Example
-test = 1 # number of tests
+test = 10 # number of tests
 start_size = 7
 range_size = 7
-limit_size_back = 7
+limit_size_back = 6
 back = [[0] * test for _ in range(min(range_size,limit_size_back)+1)]
 csp = [[0] * test for _ in range(range_size+1)]
 
