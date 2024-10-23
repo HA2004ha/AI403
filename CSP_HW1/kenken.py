@@ -4,8 +4,6 @@ import random
 from decimal import Decimal, ROUND_DOWN
 import time
 from math import gcd
-from itertools import combinations_with_replacement
-from math import prod
 import numpy as np
 
 class Cage:
@@ -123,6 +121,8 @@ def solve_kenken(grid, cages):
             return True
         if col == size:
             return fill_grid_backtracking(grid, row + 1, 0)
+        number = list(range(1,size+1))
+        random.shuffle(number)
         for num in number:
             if is_safe_kenken(grid, row, col, num,cages):
                 grid[row][col] = num
@@ -130,8 +130,6 @@ def solve_kenken(grid, cages):
                     return True
                 grid[row][col] = 0
         return False
-    number = list(range(1,size+1))
-    random.shuffle(number)
     fill_grid_backtracking(grid, 0, 0)
     return grid
 
@@ -164,10 +162,15 @@ def validate_cage_operation(operation, cells, target,grid,num,row,col):
         else:
             return abs(values[0]-values[1]) == target
     elif operation == "+":
-        return sum(values) <= target  
+        return np.sum(values) <= target  
     elif operation == "*":
         return np.prod(values) <= target 
-    
+
+def find_unassigned_location(grid):
+    # Find the first empty cell in the grid
+    # just satrt 00 and end nn
+    raise NotImplementedError
+
 # Finding the divisors of m
 def get_divisors(m,n):
     divisors = set()
@@ -308,7 +311,7 @@ def solve_kenken_csp(grid, cages):
             else:
                 return assignment,False
             
-        def update_assignment(assignment,row,col,num,cage):
+        def is_valid_assignment(assignment,row,col,num,cage):
             new_assignment= {key: value.copy() for key, value in assignment.items()}
             check = True
             for i in range(size):
@@ -337,7 +340,7 @@ def solve_kenken_csp(grid, cages):
             for num in assignment[(row,col)]:
                     cage_cells = set(cages[Cage.cells_number_cage[row][col]].cells).union({(x, col) for x in range(size)}, {(row, x) for x in range(size)})
                     copy_assignment = {cell: assignment[cell] for cell in cage_cells}
-                    assignment,check = update_assignment(assignment,row,col,num,cages[Cage.cells_number_cage[row][col]])
+                    assignment,check = is_valid_assignment(assignment,row,col,num,cages[Cage.cells_number_cage[row][col]])
                     if check:
                         order,o,l= find_unassigned_location(order)
                         assignment,check = solve(assignment,order,o[0],o[1],l)            
@@ -375,14 +378,14 @@ def print_solution(solution, file=None):
     return True
 
 # Part 8: Run Example
-test = 10 # number of tests
-start_size = 1
-range_size = 8
-limit_size_back = 6
+test = 1 # number of tests
+start_size = 7
+range_size = 7
+limit_size_back = 7
 back = [[0] * test for _ in range(min(range_size,limit_size_back)+1)]
 csp = [[0] * test for _ in range(range_size+1)]
 
-with open("test.txt", "w") as f:
+with open("CSP_HW1/test.txt", "w") as f:
     for i in range(start_size, range_size + 1):
         for j in range(test):
             size = i
