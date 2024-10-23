@@ -377,7 +377,7 @@ def print_solution(solution, file=None):
 
 # Part 8: Run Example
 test = 10 # number of tests
-start_size = 7
+start_size = 1
 range_size = 7
 limit_size_back = 6
 back = [[0] * test for _ in range(min(range_size,limit_size_back)+1)]
